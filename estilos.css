@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+}
+
+.contenedor{
+    background-image: url(https://www.sdpnoticias.com/resizer/SxQYMRg-PnH556Wkz5AGyjJ7koE=/300x0/arc-photo-sdpnoticias/arc2-prod/public/LH4IFXGYQFMFBNPEAQDZ44RIQI.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+p{
+    font-size: xx-large;
+    padding: 5%;
+    color: ghostwhite;
+}
+
+button{
+    font-style: normal;
+    font-size: medium;
+}
+
